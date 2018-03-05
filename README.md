@@ -9,5 +9,5 @@ Terraform version 0.11.3 では、
 
 ## ■ 結論
 
-① Aurora for Postgres作成可否 -> 
+① Aurora for Postgres作成可否 ->   
 ② SG更新可否確認 -> 
