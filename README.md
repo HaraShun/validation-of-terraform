@@ -5,9 +5,9 @@
 ## ■ 確認したかったこと
 Terraform version 0.11.3 では、  
 ① Aurora for Postgres作成できるのか  
-② SG更新ができるのか
+② 「説明」ありセキュリティグループ更新ができるのか
 
 ## ■ 結論
 
-① Aurora for Postgres作成可否 ->   
-② SG更新可否確認 -> 
+① Aurora for Postgres作成可否 ->  __できる__  
+② 「説明」ありセキュリティグループ更新可否 -> __できる__
